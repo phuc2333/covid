@@ -7,7 +7,7 @@ export default function App() {
   const [isSelected, setSelection] = useState(false);
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>Thông tin</Text>
+      <Text style={styles.text}>Thông tin 22dfsddd</Text>
       <View style={styles.container}>
       <Text style={styles.text2}>Vui lòng nhập số điện thoại để đăng ký/đăng nhập ứng dụng PC/Covid</Text>
       <TextInput
